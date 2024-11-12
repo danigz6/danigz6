@@ -26,8 +26,4 @@ I work with the following technologies and tools:
 
 ### 📈 GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danigz6&show_icons=true&theme=radical)
-
-### 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danigz6&layout=compact)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danigz6&show_icons=true&theme=github_dark_dimmed)
