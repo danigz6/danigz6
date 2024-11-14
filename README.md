@@ -23,7 +23,3 @@ I work with the following technologies and tools:
 ### 📈 GitHub Stats
 
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danigz6&show_icons=true&theme=github_dark_dimmed)
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gallego-zaragoza)
