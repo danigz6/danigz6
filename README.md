@@ -20,7 +20,3 @@ I work with the following technologies and tools:
 ![Astro](https://img.shields.io/badge/-Astro-FF5D2E?style=flat&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-222?style=flat&logo=figma&logoColor=white)
-
-### 📈 GitHub Stats
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danigz6&show_icons=true&theme=github_dark_dimmed)
